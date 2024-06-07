@@ -146,7 +146,7 @@ Atualização com Máscara: Usa máscaras booleanas para substituir as notas ori
 ---
 
 
-![GitHub Repo](https://gh-card.dev/repos/PH3-Digital/ADA-Coders-2024/Desafio-Mascara-Boolean.svg)
+![GitHub Repo](https://gh-card.dev/repos/PH3-Digital/ADA-Coders-2024.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PH3-Digital&show_icons=true&theme=radical)
 
@@ -156,7 +156,7 @@ Atualização com Máscara: Usa máscaras booleanas para substituir as notas ori
 
 ## 📈 Estatísticas do Repositório
 
-![GitHub repo size](https://img.shields.io/github/repo-size/PH3-Digital/ADA-Coders-2024/Desafio-Mascara-Boolean)
+![GitHub repo size](https://img.shields.io/github/repo-size/PH3-Digital/ADA-Coders-2024)
 ![GitHub contributors](https://img.shields.io/github/contributors/PH3-Digital/ADA-Coders-2024)
 ![GitHub stars](https://img.shields.io/github/stars/PH3-Digital/ADA-Coders-2024?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/PH3-Digital/ADA-Coders-2024?style=social)
