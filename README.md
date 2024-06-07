@@ -189,4 +189,4 @@ Essa estrutura ajuda a compreender tanto os fundamentos do Python quanto o uso e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH3-Digital&layout=compact&theme=radical)
 
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=PH3-Digital/ADA-Coders-2024&left_color=green)
+
