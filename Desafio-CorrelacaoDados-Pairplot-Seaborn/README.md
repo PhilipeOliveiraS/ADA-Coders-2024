@@ -111,3 +111,23 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 ```
 
 Este `README.md` incorpora badges informativos, uma descrição clara do projeto, funcionalidades, visualizações gráficas, e uma explicação detalhada do código e dos fundamentos de Python usados.
+```
+---
+
+![GitHub Repo](https://gh-card.dev/repos/PH3-Digital/ADA-Coders-2024.svg)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PH3-Digital&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH3-Digital&layout=compact&theme=radical)
+
+## 📈 Estatísticas do Repositório
+
+![GitHub repo size](https://img.shields.io/github/repo-size/PH3-Digital/ADA-Coders-2024)
+![GitHub contributors](https://img.shields.io/github/contributors/PH3-Digital/ADA-Coders-2024)
+![GitHub stars](https://img.shields.io/github/stars/PH3-Digital/ADA-Coders-2024?style=social)
+![GitHub forks](https://img.shields.io/github/forks/PH3-Digital/ADA-Coders-2024?style=social)
+
+---
+---
+
+Este projeto é mantido por [PH3-Digital](https://github.com/PH3-Digital). Contribuições são bem-vindas!
