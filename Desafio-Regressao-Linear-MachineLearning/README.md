@@ -60,10 +60,6 @@ Estrutura de dados bidimensional do pandas.
 - `metrics.mean_absolute_error()`: Calcula o erro absoluto médio.
 - `metrics.mean_squared_error()`: Calcula o erro quadrático médio.
 
-## Visualização dos Resultados
-![Heatmap de Correlação](./img/heatmap.png)
-![Valores Reais vs Previstos](./img/scatter.png)
-
 ## Github Stats
 ![PH3-Digital](https://github-readme-stats.vercel.app/api?username=ph3-digital&show_icons=true&bg_color=0D1117&border_color=30A3DC&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
 
