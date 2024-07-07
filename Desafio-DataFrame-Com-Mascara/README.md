@@ -170,24 +170,24 @@ Este código ilustra o uso de várias funcionalidades da biblioteca pandas para 
 ---
 
 
-![GitHub Repo](https://gh-card.dev/repos/PH3-Digital/ADA-Coders-2024.svg)
+![GitHub Repo](https://gh-card.dev/repos/PhilipeOliveiraS/ADA-Coders-2024.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PH3-Digital&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilipeOliveiraS&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH3-Digital&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeOliveiraS&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Estatísticas do Repositório
 
-![GitHub repo size](https://img.shields.io/github/repo-size/PH3-Digital/ADA-Coders-2024)
-![GitHub contributors](https://img.shields.io/github/contributors/PH3-Digital/ADA-Coders-2024)
-![GitHub stars](https://img.shields.io/github/stars/PH3-Digital/ADA-Coders-2024?style=social)
-![GitHub forks](https://img.shields.io/github/forks/PH3-Digital/ADA-Coders-2024?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/PhilipeOliveiraS/ADA-Coders-2024)
+![GitHub contributors](https://img.shields.io/github/contributors/PhilipeOliveiraS/ADA-Coders-2024)
+![GitHub stars](https://img.shields.io/github/stars/PhilipeOliveiraS/ADA-Coders-2024?style=social)
+![GitHub forks](https://img.shields.io/github/forks/PhilipeOliveiraS/ADA-Coders-2024?style=social)
 
 ---
 ---
 
-Este projeto é mantido por [PH3-Digital](https://github.com/PH3-Digital). Contribuições são bem-vindas!
+Este projeto é mantido por [PhilipeOliveiraS](https://github.com/PhilipeOliveiraS). Contribuições são bem-vindas!
 
 ---
